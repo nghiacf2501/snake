@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    display: flex;
+}
+
+canvas{
+    border: 2px solid white;
+    margin: auto;
+}
+.index{
+    margin: auto;
+}
